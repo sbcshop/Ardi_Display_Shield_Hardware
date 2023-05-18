@@ -1,20 +1,20 @@
 # Ardi_Display_Shield_Hardware
 
-<img src="https://github.com/sbcshop/EnkPi_4.2_Software/raw/main/images/EnkPi_4_2.jpg" width="432" height="396">
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ArdiPiDisplayShield.jpg?v=1683880851">
 
 
 In this github repo you will find hardware files for Ardi Display Shield 
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mecahnical Data]() - This directory contains Dimension, 3D and STEP files
-  - [Ardi Display Shield Getting Started]() - This repo contains EnkPi 4.2" Getting Started Guide and Sample Codes.
+  - [/Design Data](https://github.com/sbcshop/Ardi_Display_Shield_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mecahnical Data](https://github.com/sbcshop/Ardi_Display_Shield_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Ardi Display Shield Getting Started](https://github.com/sbcshop/Ardi_Display_Shield_Software) - This repo contains Ardi Display Shield Getting Started and Sample Codes.
 
 ## Related Products
-   * []() - EnkPi with 2.9" E-paper display size
-   * []() - EnkPi with 5.83" E-paper display size
-   * []() - EnkPi with 7.5" E-paper display size
-   * []() - EnkPi with 5.83" E-paper display size
+   * [Ardi UHF Shield](https://tinyurl.com/5ezdm7r2) - Ardi UHF Shield
+   * [Ardi RFID Shield](https://tinyurl.com/mv7addc2) - Ardi RFID Shield 
+   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno?_pos=1&_sid=79d82d29c&_ss=r) - Ardi Relay Shield
+   * [Ardi Series](https://shop.sb-components.co.uk/products/ardi-series-arduino-uno-alternative?variant=40572595699795) - Arduino Uno form factor variants based on PICO W and ESP32 S3 Wroom 1
 
  
 ## Product License
